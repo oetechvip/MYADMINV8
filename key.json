@@ -37,13 +37,6 @@
       "banReason": "Test Key",
       "userRank": "Supreme User",
       "freezeAccount": false
-    },
-    "DPMods-NFSL6R": {
-      "hwid": "22A01FCA5590CF2F",
-      "expireDate": "2026-06-11",
-      "isBanned": false,
-      "banReason": "",
-      "userRank": "Supreme User"
     }
   }
 }
